@@ -35,7 +35,7 @@ Now animate with the keyboard:
 
 ## Installation
 
-Add `pod 'ZWPKeyboardDelegate'` to your `Podfile` and then run `pod install`.
+Add `pod 'ZWPKeyboardDelegate', :git => 'https://github.com/zwopple/ZWPKeyboardDelegate.git` to your `Podfile` and then run `pod install`.
 
 ## License
 
